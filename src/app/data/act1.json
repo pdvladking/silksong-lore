@@ -1,0 +1,42 @@
+[
+  {
+    "id": "mossMother",
+    "title": "Moss Mother",
+    "act": 1,
+    "text": "Guardian of the Moss Grotto, her vines block Hornet’s ascent.",
+    "next": "feralSentinel",
+    "codex": "mossMotherLore"
+  },
+  {
+    "id": "feralSentinel",
+    "title": "Feral Sentinel",
+    "act": 1,
+    "text": "A relentless hunter that stalks the lower paths of Pharloom.",
+    "next": "bellBeast",
+    "codex": "feralSentinelLore"
+  },
+  {
+    "id": "bellBeast",
+    "title": "Bell Beast",
+    "act": 1,
+    "text": "Its tolling roar shakes the ascent, guarding the way forward.",
+    "next": "marrowJudge",
+    "codex": "bellBeastLore"
+  },
+  {
+    "id": "marrowJudge",
+    "title": "Marrow Judge",
+    "act": 1,
+    "text": "An arbiter of Pharloom’s castes, blocking Hornet’s climb.",
+    "next": "laceFirst",
+    "codex": "marrowJudgeLore"
+  },
+  {
+    "id": "laceFirst",
+    "title": "Lace (First Encounter)",
+    "act": 1,
+    "text": "Hornet’s rival appears, testing her resolve in battle.",
+    "next": null,
+    "codex": "laceFirstLore"
+  }
+]
