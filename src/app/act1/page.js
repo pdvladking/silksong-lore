@@ -1,4 +1,4 @@
-import act1Data from '@/data/act1.json';
+import act1Data from '@/app/data/act1';
 import Link from 'next/link';
 
 export default function Act1Page() {
