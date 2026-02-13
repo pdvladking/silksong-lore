@@ -6,7 +6,7 @@ export default function Act1Page() {
     <main className="p-8 bg-gray-950 text-gray-100 min-h-screen">
       <h1 className="text-3xl font-bold mb-6">Act 1 - Early Pharloom</h1>
       <p className="mb-6 text-lg">
-        Hornet's journey begins with the climb through Pharloom. These bosses block her ascent and
+        Hornet&apos;s journey begins with the climb through Pharloom. These bosses block her ascent and
         must be defeated to progress.
       </p>
       <ul className="space-y-4">
