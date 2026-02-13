@@ -1,0 +1,62 @@
+[
+  {
+    "id": "mossMotherLore",
+    "title": "Moss Mother",
+    "lore": "The Moss Mother is rooted deep in Pharloom’s grotto. Her vines embody the land’s resilience, blocking Hornet’s ascent until she proves her strength."
+  },
+  {
+    "id": "feralSentinelLore",
+    "title": "Feral Sentinel",
+    "lore": "A relentless hunter, the Feral Sentinel stalks the lower paths. Its primal fury reflects the dangers of Pharloom’s wilds."
+  },
+  {
+    "id": "bellBeastLore",
+    "title": "Bell Beast",
+    "lore": "The tolling roar of the Bell Beast shakes the ascent. Its presence is a reminder of Pharloom’s ancient guardianship."
+  },
+  {
+    "id": "marrowJudgeLore",
+    "title": "Marrow Judge",
+    "lore": "An arbiter of Pharloom’s castes, the Marrow Judge enforces order with bone‑deep authority."
+  },
+  {
+    "id": "laceFirstLore",
+    "title": "Lace (First Encounter)",
+    "lore": "Hornet’s rival appears for the first time, testing her resolve and foreshadowing their deeper conflict."
+  },
+  {
+    "id": "silkenConsulLore",
+    "title": "Silken Consul",
+    "lore": "The Silken Consul embodies Pharloom’s hierarchy, weaving threads of control through the Citadel."
+  },
+  {
+    "id": "glassJudgeLore",
+    "title": "Glass Judge",
+    "lore": "Cold and precise, the Glass Judge enforces Citadel law with crystalline clarity."
+  },
+  {
+    "id": "choirSentinelLore",
+    "title": "Choir Sentinel",
+    "lore": "Guardian of the Citadel’s song, the Choir Sentinel resonates with power and tradition."
+  },
+  {
+    "id": "laceSecondLore",
+    "title": "Lace (Second Encounter)",
+    "lore": "Hornet’s rival returns, their duel escalating into a clash of destiny."
+  },
+  {
+    "id": "crustKingLore",
+    "title": "Crust King",
+    "lore": "Armored in hardened shell, the Crust King is a late‑game guardian whose endurance tests Hornet’s limits."
+  },
+  {
+    "id": "nylethGuardianLore",
+    "title": "Nyleth & Guardian",
+    "lore": "A dual encounter tied to Pharloom’s deepest lore, Nyleth and her Guardian embody the land’s mysteries."
+  },
+  {
+    "id": "karmelitaDancerLore",
+    "title": "Karmelita the Dancer",
+    "lore": "The climactic fight, Karmelita’s dance is both beautiful and deadly — Hornet’s final trial before the ending."
+  }
+]

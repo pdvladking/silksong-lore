@@ -1,0 +1,26 @@
+[
+  {
+    "id": "crustKing",
+    "title": "Crust King",
+    "act": 3,
+    "text": "A late‑game guardian, armored in layers of hardened shell.",
+    "next": "nylethGuardian",
+    "codex": "crustKingLore"
+  },
+  {
+    "id": "nylethGuardian",
+    "title": "Nyleth & Guardian",
+    "act": 3,
+    "text": "A dual encounter tied to Pharloom’s deepest lore.",
+    "next": "karmelitaDancer",
+    "codex": "nylethGuardianLore"
+  },
+  {
+    "id": "karmelitaDancer",
+    "title": "Karmelita the Dancer",
+    "act": 3,
+    "text": "The climactic fight, Hornet’s final trial before the ending.",
+    "next": null,
+    "codex": "karmelitaDancerLore"
+  }
+]
